@@ -1,7 +1,7 @@
-# ObjectStack AI
-
 <div align="center">
-
+ 
+  # ObjectStack AI
+ 
   **The Standard Protocol for AI Software Generation.**
 
   We are building the "Operating System" that allows Artificial Intelligence to generate, deploy, and manage enterprise-grade applications without hallucinations.
